@@ -9,7 +9,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 -->
 <div align="center">
 
-  <img src="albino/public/frontend/assets/imgs/theme/logo dz ornithologie.png" alt="logo" width="400" height="auto" />
+  <img src="public/logo/screenshots/page de garde.png" alt="logo" height="500" width="1200" height="auto" />
 
   
 
@@ -48,17 +48,11 @@ Maybe you can mention me or this repo in the acknowledgements too
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="2024-04-15 16_35_44-Admin Login.png" alt="screenshot" />
-  <img src="2024-04-15 16_37_01-Settings.png" alt="screenshot" />
-  <img src="2024-04-15 16_37_39-Settings.png" alt="screenshot" />
-  <img src="2024-04-15 16_37_52-Settings.png" alt="screenshot" />
-  <img src="2024-04-14 22_24_28-Pomada Tabernil.png" alt="screenshot" />
-    <img src="2024-04-15 16_29_07-.png" alt="screenshot" />
-    <img src="2024-04-15 16_29_58-Settings.png" alt="screenshot" />
-    <img src="2024-04-15 16_30_22-Supplements Category.png" alt="screenshot" />
-    <img src="2024-04-15 16_30_44-Dz-Ornithologie Shop.png" alt="screenshot" />
-   <img src="2024-04-15 16_33_35-MyCart Page.png" alt="screenshot" />
-   <img src="2024-04-15 16_34_36-Checkout Page.png" alt="screenshot" />
+  <img src="public/logo/screenshots/ajout BL.png" alt="screenshot" />
+  <img src="public/logo/screenshots/ajout retour client.png" alt="screenshot" />
+  <img src="public/logo/screenshots/bl encours.png.png" alt="screenshot" />
+  <img src="public/logo/screenshots/rapport stock.png" alt="screenshot" />
+  <img src="public/logo/screenshots/validation bl.png" alt="screenshot" />
 
 </div>
 
@@ -93,7 +87,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 
 
-- Clone the repository using the command "git clone (https://github.com/lomrimoncef/E-commerce-Bird-Shop.git)"
+- Clone the repository using the command "git clone (https://github.com/lomrimoncef/Polybeton-Dashboard.git)"
 - Create database in MySql
 - Configure the .env file accordingly
 
